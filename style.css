@@ -1,0 +1,11 @@
+h1 {
+    font-size: 36px;
+    color:  plum;
+}
+div {
+    background-color: #34495E;
+    color: white;
+    border-radius: 20px;
+    padding: 21px;
+    margin-bottom: 20px;
+}
