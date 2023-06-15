@@ -8,3 +8,4 @@
 #### HW 6 (05.06.23) - https://nastyatuz.github.io/FE_Homeworks/HW6/index.js
 #### HW 7 (07.06.23) - https://nastyatuz.github.io/FE_Homeworks/HW7/index.js
 #### HW 8 (13.06.23) - https://nastyatuz.github.io/FE_Homeworks/HW%208/script.js
+#### HW 9 (15.06.23) - https://nastyatuz.github.io/FE_Homeworks/HW9/script.js
