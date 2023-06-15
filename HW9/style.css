@@ -1,0 +1,23 @@
+.strings_container {
+    font-size: 20px;
+    color: white;
+    background-color: rgb(30, 140, 122);
+    padding: 20px;
+    margin: 10px;
+    width: 20%;
+}
+
+.numbers {
+    font-size: 30px;
+    color: darkred;
+}
+
+.users_container {
+
+        font-size: 20px;
+        color: white;
+        background-color: plum;
+        padding: 30px;
+        margin: 10px;
+        width: 20%;
+    }
